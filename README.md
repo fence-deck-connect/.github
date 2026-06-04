@@ -1,2 +1,2 @@
-# .github
-Public profile readme
+# FDC's Public Dev Profile
+Hi 👋
